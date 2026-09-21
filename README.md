@@ -2,7 +2,7 @@
 ## NicaTrade International 
 Gestión Digital de Información para NicaTrade International. 
 ## Objetivo: 
-Organizar informaicón relacionada con una operación de importación desde México hacia Nicaragua utilizando diferentes herramientas digitales. 
+Organizar información relacionada con una operación de importación desde México hacia Nicaragua utilizando diferentes herramientas digitales. 
 ## Herramientas utilizadas:
 Word
 Excel
